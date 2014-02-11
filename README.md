@@ -1,4 +1,4 @@
-hyde
-====
+Octopress Hubot
+===============
 
-Our Campfire Hubot. Helps us maintain Jekyll even better. :heart:
+Our Campfire Hubot. Helps us maintain Octopress even better. :heart:
