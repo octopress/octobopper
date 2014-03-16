@@ -3,5 +3,6 @@
   "hubot-gif-me",
   "hubot-principles",
   "hubot-pr-status",
-  "hubot-github-repo-event-notifier"
+  "hubot-github-repo-event-notifier",
+  "hubot-time-me"
 ]
